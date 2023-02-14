@@ -1,0 +1,27 @@
+.cardLayout{
+    width: 350px;
+    background-color: "#FFFFFF" !important;
+    border-radius: 25px !important;
+    box-shadow: rgb(0 0 0 / 26%) 0px 5px 8px 3px !important;
+    margin:30px !important;
+    padding: 30px;
+
+}
+.typo-border{
+    padding-Bottom: 40px;
+    font-size: 38px !important;
+    font-weight: bold !important;
+}
+.hrline{
+    border-color: #BE4141;
+    
+    }
+.heightComp{
+    height: 100px !important;
+    padding-bottom: 30px;
+}
+.subheightComp{
+    height: 50px !important;
+}
+
+.line{width: 180px;}

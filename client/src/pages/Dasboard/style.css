@@ -1,0 +1,17 @@
+.headingTxt{
+    padding: 4px 0 2px 0;
+    font-weight: bold;
+}
+.content{
+    padding: 20px;
+}
+.mainContent{
+    width:80%;
+    padding:30px;
+}
+.mainComp{
+    padding: 30px !important;
+    width: 100% !important;
+    align-content: center;
+   
+}
